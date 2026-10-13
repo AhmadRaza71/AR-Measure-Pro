@@ -1,0 +1,6 @@
+{
+  "name": "ARMeasure Pro",
+  "description": "Precision AR measurement tool featuring point-to-point distance, 3-point angle protractor, circle diameter & recess depth, polygon area, cuboid volume, and history log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
